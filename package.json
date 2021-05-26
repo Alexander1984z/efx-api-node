@@ -57,7 +57,7 @@
     "hash-filename": "^1.0.4",
     "keccak": "^1.4.0",
     "mocha": "^5.1.1",
-    "mochify": "^5.8.0",
+    "mochify": "^8.0.0",
     "nock": "^9.4.1",
     "node-minify": "^3.2.0",
     "solc": "^0.4.24",
