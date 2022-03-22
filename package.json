@@ -49,15 +49,15 @@
     "web3": "1.0.0-beta.33"
   },
   "devDependencies": {
-    "browser-run": "^5.0.0",
+    "browser-run": "^10.0.0",
     "browserify": "^16.2.2",
     "chai": "^4.1.2",
     "del-cli": "^1.1.0",
     "ganache-cli": "^6.1.4",
     "hash-filename": "^1.0.4",
     "keccak": "^1.4.0",
-    "mocha": "^5.1.1",
-    "mochify": "^5.8.0",
+    "mocha": "^6.2.3",
+    "mochify": "^8.0.0",
     "nock": "^9.4.1",
     "node-minify": "^3.2.0",
     "solc": "^0.4.24",
