@@ -56,7 +56,7 @@
     "ganache-cli": "^6.1.4",
     "hash-filename": "^1.0.4",
     "keccak": "^1.4.0",
-    "mocha": "^5.1.1",
+    "mocha": "^9.2.2",
     "mochify": "^5.8.0",
     "nock": "^9.4.1",
     "node-minify": "^3.2.0",
